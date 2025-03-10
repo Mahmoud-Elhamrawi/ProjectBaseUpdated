@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="FeaturesBased" verbose="1">
+    <test name="Features_Based">
+        <classes>
+            <class name="TestCases.TC"/>
+        </classes>
+    </test>
+
+</suite>
